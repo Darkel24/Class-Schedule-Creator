@@ -16,5 +16,3 @@
 <h4> ScreenShots </h4>  
 
 ![project-img](./classroom.png)
-
-### Happy Coding! 👩‍💻
